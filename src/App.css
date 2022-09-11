@@ -25,11 +25,15 @@
 .text{
   height: auto;
 }
+
 .button{
+  width: 300px;
+  padding: 10px 0px;
+  text-align: center;
     margin: 0 auto;
-    display: flex;
+    display: block;
     margin-top: 3rem;
-    padding: 10px 60px;
+    text-decoration: none;
     background-image: linear-gradient(to top, #305a97, #2657af, #3252c5, #4f46d5, #742fe0);
     border: none;
     color: #fff;

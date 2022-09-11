@@ -13,7 +13,9 @@ function App() {
     Sed a accusantium recusandae, sint ut exercitationem explicabo, eaque nisi, harum nihil tempore. Cum quis ab, illum natus doloremque odit? Laboriosam ea, adipisci qui consequatur omnis corporis voluptatum repellendus aspernatur.
     Eos aspernatur beatae numquam nostrum. Ab, non. Nobis laboriosam libero alias sit accusantium beatae reprehenderit illo numquam molestias similique iusto magnam odit quis deleniti veritatis dolor, in nesciunt sint. Iste.
         </div>
-        <input className='button' type='button' value="Aceptar"></input>
+        <div className='bottonperro'>
+          <a className='button' href="https://escoger.herokuapp.com/">Aceptar</a>
+        </div>
       </div>
     </div>
   );
